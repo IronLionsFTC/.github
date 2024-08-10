@@ -4,6 +4,7 @@ We compete in the First Tech Challenge (FTC) competition. \
 [Information, Socials, and Contacts](https://linktr.ee/24089?utm_source=linktree_profile_share&ltsid=93edcbf3-30ae-4329-a226-e30c0084b38f)
 
 ## Team 24089
+<div align="center">
 | Member | GitHub | Role |
 | ---- | ---- | ---- |
 | Marley | [@marlstar](https://github.com/marlstar) | Build Lead & Programming Lead |
