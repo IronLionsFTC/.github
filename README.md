@@ -1,2 +1,2 @@
 # Team 24089's website
-Developed by (Harrison)[https://github.com/hchap1]
+Developed by [Harrison](https://github.com/hchap1)
