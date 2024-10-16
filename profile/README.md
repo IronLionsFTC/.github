@@ -6,8 +6,8 @@ We are a small Australian team. \
 ## Team 24089
 | Member | GitHub | Role |
 | ---- | ---- | ---- |
-| Marley | [@marlstar](https://github.com/marlstar) | Build Lead & Programming Team |
-| Harrison | [@hchap1](https://github.com/hchap1) | Programming Lead |
+| Marley | [@marlstar](https://github.com/marlstar) | Build Lead, Programming Lead (Autonomous-Focused) |
+| Harrison | [@hchap1](https://github.com/hchap1) | Programming Team (TeleOp-Focused) |
 | Taha | [@paradoxiscoding](https://github.com/paradoxiscoding) | Team Coordinator, Build Team |
 | Rowan | [@SolemenF](https://github.com/solemenf) | Outreach & Logistics |
 | Jett | _ | CAD / 3D Printing |
