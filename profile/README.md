@@ -4,11 +4,7 @@
 <div align="center">
     Hello! We're <i>Iron Lions</i>, a small <a href="https://www.firstinspires.org/robotics/ftc">FTC</a> team based on the Sunshine Coast, Australia.<br>Check out our robot reveal video by clicking below!
 </div>
-<div align="center">
-    <a href="https://www.youtube.com/watch?v=x4z5jL-8w8A">
-        <figure><img src="https://raw.githubusercontent.com/IronLionsFTC/.github/refs/heads/main/Banner.png">
-    </a>
-</div>
+[<img src="https://raw.githubusercontent.com/IronLionsFTC/.github/refs/heads/main/Banner.png">](https://www.youtube.com/watch?v=x4z5jL-8w8A)
 <div align="center">
     If you're one of your team's code monkeys like <a href="https://github.com/Marlstar">@marlstar</a> or <a href="https://github.com/hchap1">@hchap1</a>, be sure to check out 24089's <i>Into The Deep</i> <a href="https://github.com/IronLionsFTC/FTC24089">code repository</a>!<br>
     And be sure to check out our socials!<br>
