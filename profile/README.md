@@ -8,7 +8,7 @@
 [<img src="https://raw.githubusercontent.com/IronLionsFTC/.github/refs/heads/main/Banner.png">](https://www.youtube.com/watch?v=x4z5jL-8w8A)
 
 <div align="center">
-    If you're one of your team's code monkeys like <a href="https://github.com/Marlstar">@marlstar</a> or <a href="https://github.com/hchap1">@hchap1</a>, be sure to check out 24089's <i>Into The Deep</i> <a href="https://github.com/IronLionsFTC/FTC24089">code repository</a>!<br>
+    If you're one of your team's code monkeys like <a href="https://github.com/Marlstar">@marlstar</a> or <a href="https://github.com/hchap1">@hchap1</a>, be sure to check out 24089's <i>Into The Deep</i> <a href="https://github.com/IronLionsFTC/FTC24089-APOC-ITD-2025">code repository</a>!<br>
     And be sure to check out our socials!<br>
     <a href="https://instagram.com/ironlionsftc">
         <img src="https://skillicons.dev/icons?i=instagram">
