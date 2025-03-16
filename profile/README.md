@@ -5,6 +5,11 @@
     Hello! We're <i>Iron Lions</i>, a small <a href="https://www.firstinspires.org/robotics/ftc">FTC</a> team based on the Sunshine Coast, Queensland, Australia.<br>Check out our robot reveal video by clicking the image below!
 </div>
 
+</div>
+<div align="center">
+Next Event: APOC2025
+</div>
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=x4z5jL-8w8A">
     <img src="https://raw.githubusercontent.com/IronLionsFTC/.github/refs/heads/main/Banner.png" width="720" style="display: block; margin: auto;">
