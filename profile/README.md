@@ -7,7 +7,7 @@
 
 </div>
 <div align="center">
-Next Event: APOC2025
+
 </div>
 
 <p align="center">
