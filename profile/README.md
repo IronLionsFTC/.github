@@ -28,12 +28,10 @@
 
 <div align="center">
 
-| Member    | GitHub                                                 | Role                                                      |
-|-----------|--------------------------------------------------------|-----------------------------------------------------------|
-| Marley    | [@marlstar](https://github.com/marlstar)               | Autonomous programmer<br>Drivetrain build lead            |
-| Harrison  | [@hchap1](https://github.com/hchap1)                   | TeleOp/CV/Hardware integration programmer<br>Intake/Outtake build lead |
-| Taha      | [@paradoxiscoding](https://github.com/paradoxiscoding) | Team coordinator<br>Build team                            |
-| Rowan     | [@SolemenF](https://github.com/solemenf)               | Outreach, logistics, portfolio, documentation             |
-| Jett      |                                                        | CAD, 3D printing, assembly                                |
+| Member    | GitHub                                                 |
+|-----------|--------------------------------------------------------|
+| Harrison  | [@hchap1](https://github.com/hchap1)                   | 
+| Taha      | [@paradoxiscoding](https://github.com/paradoxiscoding) | 
+
 
 </div>
