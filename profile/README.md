@@ -18,11 +18,8 @@
 
 
 
-## Team 24089
+## Team 
 <div align="center">
-    <figure>
-        <img src="https://github.com/user-attachments/assets/797dab97-da03-4211-b6e9-76dc2e0c50fa" alt="Team 24089" width="480" style="display: block; margin: auto;">
-    </figure>
 </div>
 
 
